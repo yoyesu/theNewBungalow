@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1ad6c8c6.css","mappings":"AAAA,EACE,qBAAqB,CACrB,QAAS,CACT,SACF,CCJA,GACE,aACF","sources":["index.css","Home/home.css"],"sourcesContent":["* {\n  box-sizing:border-box;\n  margin: 0;\n  padding: 0;\n}","h1 {\n  color:blueviolet;\n}"],"names":[],"sourceRoot":""}
